@@ -7,7 +7,7 @@ This repository contains the code, data preprocessing steps, and modeling pipeli
 
 ## Repository Structure
 
-- `data/`: Contains the (anonymized) dataset or a synthetic sample if data is restricted.
+- `data/`: Contains the (anonymized) dataset of MSM population in Ghana.
 - `notebooks/`: Jupyter or R notebooks for exploratory data analysis and preprocessing.
 - `models/`: Scripts for training and evaluating the machine learning classifiers.
 - `results/`: Evaluation metrics, plots (ROC curves, SHAP), and model outputs.
